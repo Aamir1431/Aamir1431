@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Aamir Majeed</h1>
-<h3 align="center">Founder of Freetoolsnap.com | Bringing creativity to life with fun and smart web tools</h3>
+<h3 align="center">Founder of Randomwordsgenerate.com | Bringing creativity to life with fun and smart web tools</h3>
 <h3 align="center">Creative Tool Developer</h3>
 
 <p align="center">
@@ -8,9 +8,9 @@
 
 ---
 
-- 🔭 I’m currently working on **Freetoolsnap.com** – a creative platform full of random word and idea generators
+- 🔭 I’m currently working on **Randomwordsgenerate.com** – a creative platform full of random word and idea generators
 - 🌱 I’m learning **SEO, content writing, and React**
-- 👨‍💻 All of my tools are available at [https://freetoolsnap.com](https://freetoolsnap.com/)
+- 👨‍💻 All of my tools are available at [https://randomwordsgenerate.com/](https://randomwordsgenerate.com/)
 - 💬 Ask me about **lead generation, data entry, SEO content writing, and creative tools**
 - 📫 How to reach me: **aamir.work101@gmail.com**
 - ⚡ Fun fact: I love making random tools that help people be creative or productive!
@@ -19,10 +19,10 @@
 
 ### 🚀 My Popular Projects
 
-- 🖌️ [Pictionary Word Generator](https://freetoolsnap.com/pictionary-word-generator/)
-- 🎲 [Truth or Dare Generator](https://freetoolsnap.com/truth-or-dare-generator/)
-- 🌍 [Random Flag Generator](https://freetoolsnap.com/random-flags-generator/)
-- 🏝️ [Island Name Generator](https://freetoolsnap.com/island-name-generator/)
+- 🖌️ [Pictionary Word Generator](https://randomwordsgenerate.com/pictionary-word-generator/)
+- 🎲 [Truth or Dare Generator](https://randomwordsgenerate.com/truth-or-dare-generator/)
+- 🌍 [Random Flag Generator](https://randomwordsgenerate.com/random-flags-generator/)
+- 🏝️ [Island Name Generator](https://randomwordsgenerate.com/island-name-generator/)
 
 ---
 
@@ -49,7 +49,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://freetoolsnap.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/domain.png" alt="Website" width="30" /></a>
+  <a href="https://randomwordsgenerate.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/domain.png" alt="Website" width="30" /></a>
   <a href="https://www.linkedin.com/in/aamir-majeed143/" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="Linkedin" width="30" /></a>
   <a href="mailto:aamir.work101@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/gmail.png" alt="Email" width="30" /></a>
 </p>
